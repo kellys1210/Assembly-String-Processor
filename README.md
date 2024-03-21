@@ -4,6 +4,25 @@
 
 This assembly language program implements two macros for string processing. One macro receives strings of signed decimal integers from the user as input, and the other macro displays strings of signed decimal integers as output. The program contains several procedures that invoke these macros. One procedure collects 10 signed decimal integer strings, converts them to their numeric representation, and performs validation to ensure they fit within a 32-bit register. Another procedure converts these numeric representations back to ASCII values to display them back to the user. Additionally, the program contains procedures to calculate the sum and the truncated average of the numeric representation, which are also displayed to the user in their ASCII form.
 
+## Description
+
+Input Processing:
+Collects strings of signed decimal integers from the user.
+Validates the input to ensure it fits within a 32-bit register and is within the range of signed integers.
+
+Output Processing:
+Converts numeric representations of integers back to ASCII format for display to the user.
+   
+Calculation:
+Calculates the sum and truncated average of the numeric representations of the integers.
+   
+The program follows these main steps:
+
+1. Collects 10 signed decimal integer strings from the user.
+2. Converts these strings to their numeric representation, performing validation checks.
+3. Calculates the sum and truncated average of the numeric representations.
+4. Displays the original entered numbers, their sum, and truncated average back to the user in ASCII format
+
 ## Usage
 
 To run the program:
