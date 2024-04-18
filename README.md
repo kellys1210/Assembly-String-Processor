@@ -1,4 +1,4 @@
-# Project 6 (Proj6_shielkel.asm)
+# Assembly String Processor
 
 ## Overview
 
