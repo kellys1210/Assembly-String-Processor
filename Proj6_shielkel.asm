@@ -1,12 +1,3 @@
-TITLE Project 6    (Proj6_shielkel.asm)
-
-; Author: Kelly Shields
-; Last Modified: 03/06/2024
-; OSU email address: shielkel@oregonstate.edu
-; Course number/section: CS271 Section 402
-; Project Number:  6   Due Date: 03/17/2024
-; Description: 
-
 ; This program will implement two macros for string processing; one to receive strings of signed decimal integers from the user as input, 
 ; and one to display strings of signed decimal integers as output. This program contains several procedures which will invoke these macros.
 ; One procedure will collect the 10 signed decimal integer strings, convert to their numeric representation, and perform validation on these 
